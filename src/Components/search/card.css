@@ -1,0 +1,13 @@
+.card-grid {
+  list-style-type: none;
+  text-align: left;
+}
+
+.card-grid li {
+  display: inline-block;
+  padding: 50px 15px;
+  margin: 5px;
+  border: 1px solid #0000ff54;
+  width: 15%;
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Krish"
+    },
+    {
+      "userId": 2,
+      "firstName": "Racks"
+    },
+    {
+      "userId": 3,
+      "firstName": "Denial"
+    },
+    {
+      "userId": 4,
+      "firstName": "Devid"
+    },
+    {
+      "userId": 5,
+      "firstName": "Jone"
+    },
+    {
+      "userId": 6,
+      "firstName": "Lucy"
+    },
+    {
+      "userId": 7,
+      "firstName": "Don"
+    }
+  ]
+}
